@@ -1,0 +1,37 @@
+body{
+ font-family: 'Akaya Telivigala', cursive;
+ background : #a442f5;
+}
+#heading{
+ color : aquamarine;
+}
+#heading img{
+ width : 200px;
+}
+#main_division{
+ background : #92fa7d;
+ border : 20px #7dfad0;
+ font-size : 30px;
+}
+#main_division img{
+ width : 300px;
+ padding-top : 20px;
+}
+b{
+ width : 300px;
+ padding : 10px;
+ margin-bottom : 0px;
+ font-size : 30px;
+}
+span{
+ font-size : 30px;
+}
+h4{
+ font-size : 30px;
+}
+h5{
+ font-size : 25px;
+}
+#the_more_accurate_model h5{
+ padding : 100px;
+}
